@@ -64,62 +64,47 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Performica is a technology company identified through the API Evangelist harvest backlog, originating from a venture capital portfolio source and backed by Bowery Capital. The company focuses on providing data-driven solutions and platform services, aiming to enable businesses to integrate and leverage performance analytics through APIs. Although its public website is currently unreachable, the organization is recognized as an emerging player in the API ecosystem and is slated for comprehensive profiling in the API Evangelist network.
+Performica is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio; backed by bowery-capital) and added to the network as a stub for full-pipeline profiling.
 
-**Areas:** Company · Data-Analytics · Platform · API-First · Emerging
+**Areas:** Company
 
 ## Performica on APIs.io
 
 Everything profiled for Performica is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/performica/](https://apis.io/providers/performica/)** — or go straight to one of the APIs or properties below.
 
-## Where to find this API
+### Published properties
 
-Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-- [Website](https://performica.com/)
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Performica Authentication](https://apis.io/security/performica/performica-authentication/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Performica Scopes](https://apis.io/scopes/performica/performica-scopes/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Performica Plans Pricing](https://apis.io/plans/performica/performica-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Performica Rate Limits](https://apis.io/rate-limits/performica/performica-rate-limits/)
 
 ## API Evangelist rating
 
-**Kin Score 2.2** — minimal · rubric 0.25.0 · scored 2026-10-29
+**Unrated** — no public website could be reached for this company, so there was almost nothing to measure and nothing a reader could check.
 
-| Facet | Score |
-|---|---|
-| Discoverability | 44.6 |
-| Contract quality | 0.0 |
-| Contract governance | 0.0 |
-| Operational transparency | 0.0 |
-| Developer ergonomics | 0.0 |
-| Access clarity | 0.0 |
-
-**Agent readiness 0.0** — human-only
-
-| Agent-readiness dimension | Result |
-|---|---|
-| Spec Presence | — |
-| Agentic Access | — |
-| Reversibility Documented | — |
-| MCP Server | — |
-| Auth Clarity | — |
-| Idempotency | — |
-| Error Semantics | — |
-| OpenAPI Examples | — |
-| Rate Limit Signal | — |
-| Event Surface Described | — |
-| Agent Skills | — |
-| Well Known Catalog | — |
-| Consent Identity | — |
-| Agent Card | — |
-| Dry Run Mode | — |
-| Delegated Identity | — |
-| Protected Resource Metadata | — |
-| Dynamic Client Registration | — |
-| Agentic Commerce | — |
-| Pagination Ratio | na |
-| Operation Distinctiveness | na |
-
-**Regulatory alignment 0.0** — Horizontal (data, software, accessibility, platform)
-
-The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/performica/](https://apis.io/providers/performica/).
+This is not a score of zero. No rating is published for this company. If that is wrong because something public exists that we missed, say so on this repository or email [info@apievangelist.com](mailto:info@apievangelist.com) and it will be re-run — free, and no justification needed.
 
 ## How this profile is made
 
